@@ -2,3 +2,11 @@
 .python-version
 .vscode/
 data/
+docs/
+.bmad-core/
+.claude/
+claude_test/
+.cursor/
+web-bundles/
+CLAUDE.md
+bmad_method.md
